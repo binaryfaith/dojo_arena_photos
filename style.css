@@ -1,0 +1,76 @@
+*{
+    margin: aut;
+    padding: 0;
+}
+html{
+    margin: auto;
+}
+#background { 
+    width: 947px;
+    height: 406px;
+    background-image: url("dojo.jpg");
+    border: 5 solid #cccccc;
+    background-repeat: no-repeat;
+    border: 8px solid grey;
+    margin: auto;
+    display: inline-block;
+}
+#arenaselection{
+    display: inline-block;
+    position: relative;
+    width: 360px;
+    height: 175px;
+    background-color: rgba(109, 107, 107, 0.95);
+    border: 2px solid grey;
+    border-radius: 10px;
+    margin: 100px 25px 25px 300px;
+}
+#arenaselection button{
+    display: inline-block;
+    width: 90px;
+    height:35px;
+    background-color: white;
+    color:  rgba(109, 107, 107, 0.38);
+    border-radius: 5px 5px;
+    margin: 7px 0px -3px 20px;
+}
+#menuebox{
+    display: inline-block;
+    position: relative;
+    width: 360px;
+    height: 175px;
+    background-color: rgba(109, 107, 107, 0.38);
+    border: 2px solid grey;
+    border-radius: 10px;
+    margin: 100px 0px 0px 320px
+}
+h1{
+    position: relative;
+    color: orange;
+    text-shadow: 2px 2px #FFFFFF;
+    text-align: center;
+}
+.menu{
+    display: inline-block;
+    margin: 0px -65px 0px 75px;
+}
+.turtles1{
+    width: 163px;
+    height: 265px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    display: inline-block;
+    bottom: 240px;
+    margin: 90px 154px;
+}
+.turtles2{
+    width: 163px;
+    height: 265px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    display: inline-block;
+    bottom: 240px;
+    margin: 90px 154px;
+}
